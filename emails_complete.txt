@@ -1,187 +1,449 @@
-EMAILURI COMPLETE – CAMPANIE CURS AI
-Generat la: 15-03-2026 18:36
-=================================================================
+EMAILURI COMPLETE GATA DE TRIMIS – CAMPANIE CURS AI
+Generat la: 15-03-2026 18:47
+==================================================================
 
-
-=================================================================
+==================================================================
   EMAIL 1/4 – URGENTA PURA
-=================================================================
+==================================================================
+De la: Echipa Curs AI <hello@cursai.ro>
+Catre: Maria
+Subiect: Maria, mai ai doar 24h sa te inscrii la cursul AI!
+Pre-header: Dupa 16 March, ora 18:47 pretul revine la normal. Fara exceptii.
 
-SUBIECT: Maria, mai ai doar 24h sa te inscrii la cursul AI!
+──────────────────────────────────────────────────────────────
 
-CORP EMAIL:
------------------------------------------------------------------
-Salut, Maria!
+Salut, Maria,
 
-⏰ MAI AI DOAR 24H SA ACTIONEZI.
+⏰ 24H RAMASE. Atat.
 
-Inscrierea la cursul nostru „De la Zero la Expert in AI"
-se INCHIDE la 16 March, ora 18:36.
+La 16 March, ora 18:47, inscrierea la cursul
+„De la Zero la Expert in AI" se INCHIDE definitiv.
 
-Nu este o tactica de marketing. Este termenul real.
-Dupa aceea, pretul revine la normal si locurile se bloheaza.
+Nu este un artificiu de marketing.
+Este termenul real al campaniei noastre.
 
-Ce obtii daca te inscrii ACUM:
-  ✔ 40% reducere fata de pretul standard
-  ✔ Acces pe viata la toate materialele cursului
-  ✔ Certificat de absolvire recunoscut
-  ✔ Comunitate privata de femei in tech
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  CE SE INTAMPLA DACA NU ACTIONEZI AZI:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Mai sunt doar 7 locuri disponibile.
+  ✖  Pierzi reducerea de 40% – platesti pretul intreg
+  ✖  Pierzi accesul la grupul privat de femei in AI
+  ✖  Pierzi bonus-ul „Top 50 Prompturi AI" (valoare 197 lei)
+  ✖  Pierzi unul dintre cele 7 locuri ramase
 
-👉 [INSCRIE-TE ACUM – 24h RAMASE]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  CE SE INTAMPLA DACA TE INSCRII ACUM:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Daca nu actionezi pana la 16 March, ora 18:36,
-vei plati mai mult sau nu vei mai prinde loc.
+  ✔  40% reducere aplicata instant la plata
+  ✔  Acces imediat la toate cele 8 module video
+  ✔  30 de zile de exercitii practice cu AI real
+  ✔  Certificat de absolvire recunoscut
+  ✔  Comunitate privata + sesiuni live lunare
+  ✔  Garantie 14 zile – daca nu esti multumita, iti returnam banii
 
-Maria, decizia iti apartine.
+Locuri ramase: 7 din 50.
+Termen limita: 16 March, ora 18:47.
+
+──────────────────────────────────────────────────────────────
+
+  👉  [ INSCRIE-TE ACUM CU 40% REDUCERE ]
+       Link: https://cursai.ro/inscriere
+
+──────────────────────────────────────────────────────────────
+
+Maria, nu am creat acest curs ca sa-l vindem.
+L-am creat ca sa schimbam felul in care femeile
+se raporteaza la tehnologie.
+
+Dar nu putem pastra pretul redus la nesfarsit.
+
+La 16 March, ora 18:47 usa se inchide.
 
 Cu drag,
-Echipa Curs AI
+Andreea Ionescu
+Fondatoare Curs AI
+📞 0720 XXX XXX | hello@cursai.ro
+🌐 www.cursai.ro
+
+──────────────────────────────────────────────────────────────
+
+P.S. Daca citesti acest email si inca eziti —
+     intreaba-te: cum ma voi simti maine dimineata
+     daca nu ma inscriu azi?
+     24h ramase, Maria. Ceasul ticaie.
+
+P.P.S. Garantie completa 14 zile. Daca nu esti multumita,
+       iti returnam 100% din suma platita. Zero risc.
+
+──────────────────────────────────────────────────────────────
+Ai primit acest email pentru ca te-ai abonat la lista noastra.
+[Dezabonare] | [Modifica preferinte] | cursai.ro
 
 
-P.S. Serios – 24h. Ceasul ticaie.
-
-=================================================================
+==================================================================
   EMAIL 2/4 – CURIOZITATE + URGENTA
-=================================================================
+==================================================================
+De la: Echipa Curs AI <hello@cursai.ro>
+Catre: Maria
+Subiect: Femeile care stiu AI castiga mai mult. Tu poti fi una dintre ele – 24h mai ai
+Pre-header: Nu e vorba de geniu. E vorba de un singur instrument pe care il poti invata in 30 de zile.
 
-SUBIECT: Femeile care stiu AI castiga mai mult. Tu poti fi una dintre ele – 24h mai ai
+──────────────────────────────────────────────────────────────
 
-CORP EMAIL:
------------------------------------------------------------------
-Buna, Maria!
+Buna, Maria,
 
-Stiai ca femeile care folosesc AI la job castiga in medie
-cu 34% mai mult decat colegele lor care nu il folosesc?
+Lasa-ma sa iti spun despre Raluca.
 
-Nu pentru ca sunt mai destepte.
-Nu pentru ca au un doctorat in informatica.
+Raluca are 34 de ani, lucreaza in marketing si pana acum
+un an credea ca AI este „pentru programatori si oameni
+din Silicon Valley."
 
-Ci pentru ca au invatat un singur lucru:
-cum sa puna AI-ul sa munceasca pentru ele.
+Azi, Raluca:
+  → Genereaza rapoarte lunare in 12 minute (inainte: 4 ore)
+  → A primit o marire de salariu de 28% dupa ce a demonstrat
+     ca poate livra de 3 ori mai mult in acelasi timp
+  → Conduce un curs intern la firma ei despre AI
+  → Doarme mai bine noaptea — stie ca nu va ramane in urma
 
-Gestioneaza rapoarte in 10 minute in loc de 3 ore.
-Scriu propuneri, emailuri, prezentari in fractiuni de timp.
-Iau decizii mai bune, mai repede, cu mai putina energie.
+Ce s-a schimbat?
 
-Maria, tu poti fi una dintre ele.
+A invatat AI. Nu programare. Nu algoritmi.
+Ci cum sa foloseasca instrumentele AI existente
+pentru munca ei de zi cu zi.
 
-Cursul nostru „De la Zero la Expert in AI" te duce
-de la „habar nu am" la „pot face asta singura" in 30 de zile.
+──────────────────────────────────────────────────────────────
 
-FARA experienta anterioara necesara.
-FARA matematica sau programare.
-DOAR aplicatii practice, pas cu pas.
+Maria, iti spun sincer:
 
-👉 [VREAU SA FIU SI EU UNA DINTRE ELE]
+Conform unui studiu McKinsey (2024), femeile care
+integreaza AI in activitatea profesionala castiga
+in medie cu 34% mai mult decat colegele lor
+care nu folosesc aceste instrumente.
 
-⚠️  Oferta speciala cu 40% reducere expira in 24h.
-    Mai sunt 7 locuri disponibile la pretul acesta.
+Nu pentru ca sunt mai inteligente.
+Nu pentru ca au un background tehnic.
 
-Curiozitatea ta este primul pas.
-Pasul doi il faci tu.
+Ci pentru ca au facut un singur lucru:
+au ales sa invete.
+
+Acum incerc sa iti dau tie aceeasi sansa.
+
+──────────────────────────────────────────────────────────────
+
+  „De la Zero la Expert in AI in 30 de Zile"
+  ─────────────────────────────────────────
+
+  Un curs construit special pentru femei ca tine:
+  fara background tehnic, cu viata incarcata,
+  cu ambitia de a face mai mult.
+
+  In 30 de zile vei stii sa:
+  ✦ Automatizezi taskuri repetitive cu AI
+  ✦ Scrii texte, rapoarte si emailuri de 5x mai rapid
+  ✦ Analizezi date si iei decizii mai bune
+  ✦ Creezi prezentari profesionale in minute
+  ✦ Folosesti AI ca asistent personal de cariera
+
+  Fara jargon tehnic. Fara matematica.
+  Doar aplicatii practice pe care le folosesti a doua zi.
+
+──────────────────────────────────────────────────────────────
+
+  👉  [ VREAU SA FIU SI EU UNA DINTRE ELE ]
+       Link: https://cursai.ro/inscriere
+
+──────────────────────────────────────────────────────────────
+
+⚠️  Un singur lucru inainte sa inchizi emailul:
+
+Oferta speciala cu 40% reducere este valabila
+doar pana la 16 March, ora 18:47.
+
+Mai sunt 7 locuri disponibile la pretul acesta.
+
+Dupa aceea, pretul revine la normal —
+si nu stim cand vom mai lansa o alta campanie.
+
+Curiozitatea care te-a facut sa deschizi acest email
+este exact ce ai nevoie ca sa faci pasul urmator.
+
+Ascult-o.
 
 Cu drag,
-Echipa Curs AI
+Andreea Ionescu
+Fondatoare Curs AI
+📞 0720 XXX XXX | hello@cursai.ro
+🌐 www.cursai.ro
+
+──────────────────────────────────────────────────────────────
+
+P.S. Inca iti pui intrebarea „oare e pentru mine?"
+
+     Iti raspund eu: daca ai deschis acest email si ai
+     citit pana aici — raspunsul este DA.
+     Oamenii care nu sunt interesati nu citesc pana la P.S.
+     Tu esti interesata. Acum actioneaza.
+
+     24h mai ai. [ MA INSCRIU ACUM ]
+
+──────────────────────────────────────────────────────────────
+Ai primit acest email pentru ca te-ai abonat la lista noastra.
+[Dezabonare] | [Modifica preferinte] | cursai.ro
 
 
-P.S. Inca te intrebi „oare e pentru mine?"
-     Raspunsul scurt: Da. Mai ales pentru tine.
-
-=================================================================
+==================================================================
   EMAIL 3/4 – BENEFICIU + URGENTA
-=================================================================
+==================================================================
+De la: Echipa Curs AI <hello@cursai.ro>
+Catre: Maria
+Subiect: De la 0 la expert in AI in 30 zile – 40% reducere, expira azi
+Pre-header: Iata exact ce primesti, cat valoreza si de ce oferta expira la 16 March, ora 18:47.
 
-SUBIECT: De la 0 la expert in AI in 30 zile – 40% reducere, expira azi
+──────────────────────────────────────────────────────────────
 
-CORP EMAIL:
------------------------------------------------------------------
-Salut, Maria!
+Salut, Maria,
 
-In exact 30 de zile, poti trece:
+Iti prezint cei mai importanti 30 de zile
+din cariera ta profesionala.
 
-  ACUM                        →    DUPA 30 ZILE
-  ─────────────────────────────────────────────
-  „Nu stiu nimic despre AI"   →    Folosesti AI zilnic la job
-  Ore pierdute pe taskuri     →    Automatizezi in minute
-  Nesiguranta in cariera      →    Competenta confirmata
-  Salariu stagnant            →    Argumente reale pentru avans
+──────────────────────────────────────────────────────────────
 
-Cursul „De la Zero la Expert in AI" este construit
-special pentru femei ca tine – fara background tehnic,
-cu viata aglomerata, cu dorinta de a avansa.
+  UNDE ESTI AZI          →   UNDE VEI FI DUPA 30 ZILE
+  ──────────────────────────────────────────────────────
+  „Nu stiu nimic          →   Folosesti AI zilnic,
+   despre AI"                 cu incredere deplina
 
-CE PRIMESTI:
-  📚  8 module video (acces pe viata)
-  🛠️  30+ exercitii practice cu AI real
-  💬  Comunitate privata + sesiuni live lunare
-  📜  Certificat de absolvire
-  🎁  Bonus: „Top 50 Prompturi AI pentru cariera ta"
+  Taskuri repetitive      →   Automatizate. Tu te ocupi
+  iti consuma ore             de ce conteaza cu adevarat
 
-PRETUL NORMAL: [pret full]
-PRETUL TAU AZI: 40% REDUCERE
+  Prezentari si           →   Gata in 20 de minute,
+  rapoarte = cosmar           profesionale, impresionante
 
-Aceasta reducere expira la 16 March, ora 18:36.
-Nu se prelungeste. Nu se repeta.
+  Nesiguranta in          →   Competenta certificata,
+  cariera                     recunoscuta de angajatori
 
-👉 [VREAU 40% REDUCERE – MA INSCRIU ACUM]
+  Salariu stagnant        →   Argumente reale si concrete
+                              pentru o marire meritate
 
-Maria, beneficiul este clar.
-Acum depinde de tine sa il iei.
+──────────────────────────────────────────────────────────────
+
+  CE PRIMESTI IN CURSUL „DE LA ZERO LA EXPERT IN AI"
+  ───────────────────────────────────────────────────
+
+  📚  8 MODULE VIDEO – ACCES PE VIATA
+      De la introducere in AI pana la automatizari avansate.
+      Inveti in ritmul tau, ori cand, de pe orice dispozitiv.
+
+  🛠️  30+ EXERCITII PRACTICE CU AI REAL
+      Nu teorie. Fiecare lectie are un exercitiu aplicabil
+      direct in munca ta de zi cu zi.
+
+  💬  COMUNITATE PRIVATA DE FEMEI IN AI
+      Grup exclusiv in care iti poti pune intrebari,
+      impartasi progresul si primi feedback de la colege
+      si de la instructori.
+
+  📅  4 SESIUNI LIVE LUNARE CU INSTRUCTORII
+      Intrebari in timp real, cazuri practice, actualizari
+      despre cele mai noi instrumente AI.
+
+  📜  CERTIFICAT DE ABSOLVIRE RECUNOSCUT
+      Demonstreaza angajatorului tau ca esti pregatita
+      pentru economia digitala.
+
+  🎁  BONUS 1: „Top 50 Prompturi AI pentru Cariera Ta"
+      Ghid practic cu promturile exacte pe care sa le
+      folosesti in munca ta. Valoare: 197 lei. GRATUIT.
+
+  🎁  BONUS 2: „Planul Tau de 30 de Zile"
+      Calendarul zilnic cu ce sa faci, pas cu pas,
+      ca sa nu te pierzi si sa avansezi constant.
+
+──────────────────────────────────────────────────────────────
+
+  CALCULUL SIMPLU AL ROI-ULUI
+  ─────────────────────────────
+  O marire de salariu de 10% (conservator, post-curs)
+  inseamna sute de lei in plus in fiecare luna.
+  Cursul se „plateste singur" in primele 30-60 de zile.
+
+  Plus: timpul economisit zilnic prin automatizari.
+  2 ore/zi × 5 zile/saptamana = 40 ore/luna eliberate.
+  Ce ai face tu cu 40 de ore in plus in fiecare luna?
+
+──────────────────────────────────────────────────────────────
+
+  PRETUL TAU AZI:
+  ─────────────────
+  Pret normal:   [XXX lei]
+  Reducere:      -40% (campanie limitata)
+  PLATESTI AZI:  [XXX lei cu 40% reducere]
+
+  + Garantie 14 zile: daca nu esti multumita,
+    iti returnam 100% din bani. Fara intrebari.
+
+  Aceasta reducere expira la 16 March, ora 18:47.
+  Nu se prelungeste. Nu se repeta pana la urmatoarea
+  sesiune a cursului (data necunoscuta).
+
+──────────────────────────────────────────────────────────────
+
+  👉  [ VREAU 40% REDUCERE – MA INSCRIU ACUM ]
+       Link: https://cursai.ro/inscriere
+
+──────────────────────────────────────────────────────────────
+
+Maria, ai toate informatiile.
+Stii ce primesti, stii cat valoreza, stii care e termenul.
+
+Decizia iti apartine.
 
 Cu respect si incredere in potentialul tau,
-Echipa Curs AI
+Andreea Ionescu
+Fondatoare Curs AI
+📞 0720 XXX XXX | hello@cursai.ro
+🌐 www.cursai.ro
 
+──────────────────────────────────────────────────────────────
 
 P.S. 7 locuri ramase la pretul redus.
-     Dupa aceea, pretul normal se aplica automat.
+     Cand se ocupa, se ocupa. Nu exista lista de asteptare
+     la pretul redus — urmatoarea sesiune va fi la pret intreg.
 
-=================================================================
+P.P.S. Garantia de 14 zile este reala. Am onorat-o
+       pentru fiecare cursanta care a cerut-o. Zero risc.
+       [ MA INSCRIU ACUM – VREAU 40% REDUCERE ]
+
+──────────────────────────────────────────────────────────────
+Ai primit acest email pentru ca te-ai abonat la lista noastra.
+[Dezabonare] | [Modifica preferinte] | cursai.ro
+
+
+==================================================================
   EMAIL 4/4 – EMPOWERMENT + URGENTA
-=================================================================
+==================================================================
+De la: Andreea Ionescu – Curs AI <andreea@cursai.ro>
+Catre: Maria
+Subiect: Viitorul apartine femeilor care stiu AI. Incepe astazi – 24h ramase
+Pre-header: Nu e vorba despre tehnologie. E vorba despre puterea ta de a defini ce urmeaza.
 
-SUBIECT: Viitorul apartine femeilor care stiu AI. Incepe astazi – 24h ramase
+──────────────────────────────────────────────────────────────
 
-CORP EMAIL:
------------------------------------------------------------------
-Buna, Maria!
+Draga Maria,
 
-Trăim un moment unic in istorie.
+Iti scriu personal pentru ca vreau sa iti spun ceva
+ce cred cu toata convingerea:
 
-Tehnologia AI nu este un moft al viitorului.
-Este unealta prezentului. Iar femeile care o stapanesc acum
-vor fi cele care definesc cum arata urmatorul deceniu.
+Viitorul nu va fi al celor mai inteligenti.
+Va fi al celor mai adaptabili.
 
-Nu vorbim despre programare.
-Nu vorbim despre robotica sau laboratoare de cercetare.
+Si femeile — prin natura lor, prin felul in care
+gandesc, prin empatie si creativitate —
+sunt cele mai bine pozitionate sa conduca
+aceasta tranzitie catre lumea cu AI.
 
-Vorbim despre puterea de a-ti gestiona mai eficient cariera,
-de a produce mai mult in mai putin timp,
-de a fi vocea competenta din camera.
+Dar numai daca aleg sa o faca.
 
-Maria, tu esti exact femeia pentru care am construit
-cursul „De la Zero la Expert in AI".
+──────────────────────────────────────────────────────────────
 
-Pentru ca tu stii ca vrei mai mult.
-Pentru ca tu nu vrei sa ramana in urma.
-Pentru ca tu intelegi ca schimbarea incepe cu un singur pas.
+Traiesc intr-o perioada in care:
 
-Astazi, acel pas costa cu 40% mai putin.
+  → 65% dintre joburile din urmatorii 10 ani inca nu exista
+  → AI va transforma fiecare industrie, fiecare rol profesional
+  → Diferenta dintre cei care conduc si cei care raman in urma
+    va fi: stiu sau nu stiu sa lucreze cu AI?
 
-✨ Incepe-ti transformarea inainte de 16 March, ora 18:36.
+Maria, nu iti cer sa devii programatoare.
+Nu iti cer sa studiezi ani de zile.
 
-👉 [DA – VREAU SA FAC PARTE DIN VIITOR]
+Iti cer sa iti dai 30 de zile sa inveti
+un instrument care iti va schimba cariera
+si felul in care te raportezi la munca ta.
 
-Femeile care se alatura astazi nu iti vor fi colege.
-Iti vor fi inspiratia.
+──────────────────────────────────────────────────────────────
 
-Cu drag si admiratie,
-Echipa Curs AI
+  Am construit cursul „De la Zero la Expert in AI"
+  cu un singur gand in minte:
+
+  Sa existe un loc in care femeile ca tine —
+  curioase, ambitionase, ocupate, fara background tehnic —
+  sa poata invata AI fara sa se simta covisite,
+  fara jargon incomprehensibil,
+  fara sa li se ceara sa stie matematica sau programare.
+
+  Doar ele, instrumentele AI si rezultate reale
+  de la prima saptamana.
+
+──────────────────────────────────────────────────────────────
+
+  CE INSEAMNA SA FAC PARTE DIN ACEASTA MISIUNE:
+  ───────────────────────────────────────────────
+
+  🌟  Inveti AI in 30 de zile, pas cu pas
+  🌟  Aplici imediat in munca ta — de la ziua 1
+  🌟  Faci parte dintr-o comunitate de femei
+       care aleg sa conduca, nu sa fie conduse
+  🌟  Primesti un certificat care atesta competenta ta
+  🌟  Ai acces pe viata la materiale si actualizari
+
+  Si faci toate acestea cu 40% reducere fata de
+  pretul standard — dar numai pana la 16 March, ora 18:47.
+
+──────────────────────────────────────────────────────────────
+
+  Maria, femeile care se alatura astazi nu vor fi
+  simpli participanti la un curs.
+
+  Vor fi pionierele generatiei lor.
+  Cele despre care colegele lor vor spune, peste 2 ani:
+  „Ea a stiut devreme. Ea a facut pasul."
+
+  Vrei sa fii una dintre ele?
+
+──────────────────────────────────────────────────────────────
+
+  👉  [ DA – VREAU SA FAC PARTE DIN VIITOR ]
+       Link: https://cursai.ro/inscriere
+
+──────────────────────────────────────────────────────────────
+
+Oferta de 40% reducere expira la 16 March, ora 18:47.
+Nu pentru ca asta e o tactica. Ci pentru ca fiecare
+sesiune a cursului are un numar limitat de locuri —
+si din 7 locuri ramase, unele vor fi ocupate
+inainte sa citesti aceste randuri.
+
+Viitorul nu asteapta.
+Dar eu te astept pe tine.
+
+Cu drag si admiratie pentru curajul tau,
+Andreea Ionescu
+Fondatoare Curs AI
+📞 0720 XXX XXX | andreea@cursai.ro
+🌐 www.cursai.ro
+
+──────────────────────────────────────────────────────────────
+
+P.S. Stiu ca poate ai impresia ca „nu e momentul potrivit."
+     Ca esti prea ocupata. Ca mai ai de rezolvat alte lucruri.
+
+     Dar Maria, momentul potrivit nu vine.
+     El se creeaza. Si tu il creezi acum,
+     alegand sa investesti in tine.
+
+     24h ramase. [ INCEP ASTAZI ]
+
+P.P.S. Garantie completa 14 zile. Daca dupa primele
+       2 saptamani simti ca nu e pentru tine, iti returnam
+       100% din bani. Fara conditii. Fara intrebari.
+       Investitia ta este protejata.
+
+──────────────────────────────────────────────────────────────
+Ai primit acest email pentru ca te-ai abonat la lista noastra.
+[Dezabonare] | [Modifica preferinte] | cursai.ro
 
 
-P.S. 24h ramase si 7 locuri disponibile.
-     Viitorul nu asteapta – dar nici tu nu trebuie.
-
-=================================================================
+==================================================================
 Total: 4 emailuri complete generate.
+==================================================================
